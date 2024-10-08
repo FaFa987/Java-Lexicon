@@ -6,4 +6,8 @@ public class Person {
     int age;
     String hobby;
 
+    public String getInformation() {
+        String personData = "First Name: " + firstName + ", Last Name: " + lastName;
+        return personData;
+    }
 }
