@@ -27,7 +27,7 @@ public class SelectionDemo {
                     System.out.println("It is Monday");
                     break;
                 case 2:
-                     Sys nm,tem.out.println("It is Teusday");
+                    System.out.println("It is tuesday");
                      break;
                 case 3:
                     System.out.println("It is Wendsday");
@@ -39,7 +39,7 @@ public class SelectionDemo {
                     System.out.println("It is Friday");
                     break;
                 default:
-                    System.out.println("It is weekend");
+                    System.out.println("It is Weekend");
             }
         }
     }
