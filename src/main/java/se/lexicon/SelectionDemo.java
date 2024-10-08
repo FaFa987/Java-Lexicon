@@ -27,7 +27,7 @@ public class SelectionDemo {
                     System.out.println("It is Monday");
                     break;
                 case 2:
-                     System.out.println("It is Teusday");
+                     Sys nm,tem.out.println("It is Teusday");
                      break;
                 case 3:
                     System.out.println("It is Wendsday");
