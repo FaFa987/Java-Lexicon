@@ -3,7 +3,7 @@ package se.lexicon;
 public class variableDemo {
     public static void main(String[] args) {
         long balance = 500000;
-        balance = 500000;
+        balance = 600000;
         double area = 25.58;
         float radius = 5.5f;
         char grader = 'A';
