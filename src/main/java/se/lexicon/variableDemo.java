@@ -13,5 +13,13 @@ public class variableDemo {
         System.out.println("Balance: " + balance);
         System.out.println("Area: " + area);
 
+        double decimal;
+        int num1 = 10,num2,num3;
+
+        String firsName = "fatemeh";
+        String lastName = "khaleghi";
+        String fullName = firsName + " " + lastName;
+        System.out.println(fullName.toUpperCase());
+
     }
 }

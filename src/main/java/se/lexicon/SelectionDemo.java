@@ -21,6 +21,26 @@ public class SelectionDemo {
             } else {
                 System.out.println("Grade F");
             }
+        int dayOfWeek = 3;
+            switch (dayOfWeek) {
+                case 1:
+                    System.out.println("It is Monday");
+                    break;
+                case 2:
+                     System.out.println("It is Teusday");
+                     break;
+                case 3:
+                    System.out.println("It is Wendsday");
+                    break;
+                case 4:
+                    System.out.println("It is Thursday");
+                    break;
+                case 5:
+                    System.out.println("It is Friday");
+                    break;
+                default:
+                    System.out.println("It is weekend");
+            }
         }
     }
 
