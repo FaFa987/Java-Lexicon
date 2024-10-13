@@ -7,7 +7,8 @@ public class Person {
     String hobby;
 
     public String getInformation() {
-        String personData = "First Name: " + firstName + ", Last Name: " + lastName;
+        String personData;
+        personData = "First Name: " + firstName + ", Last Name: " + lastName;
         return personData;
     }
 }

@@ -9,7 +9,7 @@ public class Main {
        simon.lastName = "Jefri";
        simon.age = 40;
        simon.hobby = "JYM";
-        System.out.println(simon.getInformation());
+       System.out.println(simon.getInformation());
 
 
       Person john = new Person();
